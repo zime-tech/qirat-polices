@@ -28,7 +28,7 @@ We reserve the right to terminate or suspend your access to the Qirat app if you
 These Terms of Use are governed by the laws of your country of residence. Any disputes arising from these terms will be resolved under the applicable laws in your jurisdiction.
 
 9. Contact Us
-If you have any questions about these Terms of Use, please contact us at [theqiratapp@gmail.com](theqiratapp@gmail.com).
+If you have any questions about these Terms of Use, please contact us at [theqiratapp@gmail.com](mailto:theqiratapp@gmail.com).
 
 **شروط الاستخدام لتطبيق قيراط**<br><br>
 **العربية**<br>
@@ -59,4 +59,4 @@ If you have any questions about these Terms of Use, please contact us at [theqir
 تخضع شروط الاستخدام هذه لقوانين بلد إقامتك. سيتم حل أي نزاعات تنشأ عن هذه الشروط وفقًا للقوانين المعمول بها في بلدك.
 
 9. تواصل معنا
-إذا كانت لديك أي أسئلة حول شروط الاستخدام هذه، لا تتردد في الاتصال بنا على [theqiratapp@gmail.com](theqiratapp@gmail.com).
+إذا كانت لديك أي أسئلة حول شروط الاستخدام هذه، لا تتردد في الاتصال بنا على [theqiratapp@gmail.com](mailto:theqiratapp@gmail.com).

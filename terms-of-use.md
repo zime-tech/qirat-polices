@@ -1,6 +1,6 @@
 
-Terms of Use for Qirat
-English
+**Terms of Use for Qirat**<br><br>
+**English**<br>
 Welcome to Qirat! These Terms of Use govern your use of our mobile app, Qirat, which provides daily gold prices in Egypt and a gold wallet feature for users to track and store their gold savings locally on their devices.
 
 1. Acceptance of Terms
@@ -28,10 +28,10 @@ We reserve the right to terminate or suspend your access to the Qirat app if you
 These Terms of Use are governed by the laws of your country of residence. Any disputes arising from these terms will be resolved under the applicable laws in your jurisdiction.
 
 9. Contact Us
-If you have any questions about these Terms of Use, please contact us at theqiratapp@gmail.com.
+If you have any questions about these Terms of Use, please contact us at [theqiratapp@gmail.com](theqiratapp@gmail.com).
 
-شروط الاستخدام لتطبيق قيراط
-العربية
+**شروط الاستخدام لتطبيق قيراط**<br><br>
+**العربية**<br>
 مرحبًا بك في قيراط! تحكم شروط الاستخدام هذه استخدامك لتطبيق قيراط، الذي يوفر أسعار الذهب اليومية في مصر وميزة المحفظة الذهبية التي تتيح للمستخدمين تتبع مدخراتهم الذهبية وحفظها محليًا على أجهزتهم.
 
 1. قبول الشروط
@@ -59,4 +59,4 @@ If you have any questions about these Terms of Use, please contact us at theqira
 تخضع شروط الاستخدام هذه لقوانين بلد إقامتك. سيتم حل أي نزاعات تنشأ عن هذه الشروط وفقًا للقوانين المعمول بها في بلدك.
 
 9. تواصل معنا
-إذا كانت لديك أي أسئلة حول شروط الاستخدام هذه، لا تتردد في الاتصال بنا على theqiratapp@gmail.com.
+إذا كانت لديك أي أسئلة حول شروط الاستخدام هذه، لا تتردد في الاتصال بنا على [theqiratapp@gmail.com](theqiratapp@gmail.com).

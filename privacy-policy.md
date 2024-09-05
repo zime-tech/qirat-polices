@@ -18,7 +18,7 @@ While we do not collect any data, we advise you to safeguard your device and you
 We may update this Privacy Policy from time to time to reflect any changes in our app. If there are any material changes, we will notify users through an update to the app.
 
 6. Contact Us
-If you have any questions or concerns about this Privacy Policy, feel free to contact us at theqiratapp@gmail.com.
+If you have any questions or concerns about this Privacy Policy, feel free to contact us at [theqiratapp@gmail.com](theqiratapp@gmail.com).
 
 <br><br>
 
@@ -42,5 +42,5 @@ If you have any questions or concerns about this Privacy Policy, feel free to co
 قد نقوم بتحديث سياسة الخصوصية هذه من وقت لآخر لتعكس أي تغييرات في تطبيقنا. في حالة وجود أي تغييرات جوهرية، سنقوم بإبلاغ المستخدمين من خلال تحديث التطبيق.
 
 6. تواصل معنا
-إذا كانت لديك أي أسئلة أو استفسارات حول سياسة الخصوصية هذه، لا تتردد في الاتصال بنا على theqiratapp@gmail.com.
+إذا كانت لديك أي أسئلة أو استفسارات حول سياسة الخصوصية هذه، لا تتردد في الاتصال بنا على [theqiratapp@gmail.com](theqiratapp@gmail.com).
 

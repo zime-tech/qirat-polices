@@ -20,6 +20,8 @@ We may update this Privacy Policy from time to time to reflect any changes in ou
 6. Contact Us
 If you have any questions or concerns about this Privacy Policy, feel free to contact us at theqiratapp@gmail.com.
 
+<br><br>
+
 **سياسة الخصوصية لتطبيق قيراط** <br><br>
 **العربية**<br>
 شكرًا لاختيارك قيراط! خصوصيتك مهمة لنا، ونحن ملتزمون بحماية معلوماتك الشخصية. توضح هذه السياسة كيفية تعاملنا مع بياناتك عند استخدامك لتطبيقنا، قيراط.
